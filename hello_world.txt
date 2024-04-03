@@ -1,1 +1,3 @@
-hello dale, learn programming (3/20/24)
+# git_test
+git basics
+Hello Odin! 
